@@ -63,7 +63,7 @@ const TeamCard = ({ member, index }: TeamCardProps) => {
           <div
             className={`absolute top-3 right-3 ${accentColors[colorIndex]} text-primary-foreground px-3 py-1 rounded-full text-xs font-semibold`}
           >
-            Core Team Lead
+            Core Team
           </div>
         )}
       </div>
