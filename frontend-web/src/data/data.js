@@ -112,6 +112,7 @@ const members = [
     linkedin: "https://www.linkedin.com/in/duhairillah-690679281/",
     github: "github.com/SerenaaaaRN",
     image: rillah,
+    quote: "No one heard about the tree growing. But when it fell, everyone started talking about it.",
   },
   {
     name: "Deza Arlian",
