@@ -1,1 +1,2 @@
 Prisma : https://github.com/ak7prisma/Card-Battle.git
+Aulia : https://github.com/auliamutiaraa/Nutrition-Explorer-Midterm-exam-FE.git
